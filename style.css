@@ -22,7 +22,7 @@
 }
 
 .logo{
-    background-image: url("images/logo-image.png");
+    background-image: url("logo-image.png");
     background-size: cover;
     height: 50px;
     width: 100%;
